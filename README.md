@@ -10,7 +10,7 @@ Check out the interactive stock wishlist, real-time charts, and AI-driven analys
 
 | End-to-End Application Demo | Technical Analysis Modal |
 | --- | --- |
-| ![Dhando App Demo](/Users/aaryankhanna/.gemini/antigravity/brain/670da799-2ca5-4322-9039-cf9dec1751cf/dhandho_stock_app_1779125090363.webp) | ![Reliance Stock Details Modal](/Users/aaryankhanna/.gemini/antigravity/brain/670da799-2ca5-4322-9039-cf9dec1751cf/stock_details_modal_1779125467489.png) |
+| ![Dhando App Demo](media/demo_app.webp) | ![Reliance Stock Details Modal](media/details_modal.png) |
 
 ---
 
